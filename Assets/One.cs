@@ -18,7 +18,7 @@ public class One : MonoBehaviour
     {
         Debug.Log("Hello");
         Debug.Log("Bye");
-        int num = 0;
+        int num = 456;
         Debug.Log(num);
     }
 }
